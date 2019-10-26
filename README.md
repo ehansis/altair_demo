@@ -20,15 +20,23 @@ the `selenium` Python package and the `chromedriver` executable - see [the Altai
 
 ## Notebooks
 
-* `quickstart_example.ipynb`: Example from the quickstart section of the Altair docs
+* `quickstart_example.ipynb`: Example from the quickstart section of the Altair docs (to check installation worked)
 * `display_examples.ipynb`: Different ways of showing or saving charts
-* `talk_plost.ipynb`: Example plots used in talk slides
+* `interactive_examples.ipynb`: Some interactive examples copied from the Altair docs
+* `talk_plots.ipynb`: Example plots used in talk slides
+
+**Please note:** Interactive graphs work neither in the GitHub notebook preview nor in [nbviewer](https://nbviewer.jupyter.org/).
+To play with the interactive graphs you'll have to clone the notebook and open it in your local JupyterLab environment.
+For some graphs there's also a `html` version saved in the `output` folder.
+
+(Or does anybody know how to view notebooks with interactive graphs in a zero-installation way like `nbviewer`? Let me know!)
 
 
 ## References
 
 ### Packages
 * Altair docs: https://altair-viz.github.io/index.html
+* Alteir example gallery - the best place to start! https://altair-viz.github.io/gallery/index.html#
 * Vega-Lite docs: https://vega.github.io/vega-lite/
 * Vega-Embed docs: https://github.com/vega/vega-embed
 
