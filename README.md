@@ -35,7 +35,7 @@ For some graphs there's also a `html` version saved in the `output` folder.
 ## References
 
 ### Packages
-* Altair docs: https://altair-viz.github.io/index.html
+* Altair docs: <https://altair-viz.github.io/index.html>
 * Alteir example gallery - the best place to start! <https://altair-viz.github.io/gallery/index.html#>
 * Vega-Lite docs: <https://vega.github.io/vega-lite/>
 * Vega-Embed docs: <https://github.com/vega/vega-embed>
