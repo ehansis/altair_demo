@@ -36,13 +36,14 @@ For some graphs there's also a `html` version saved in the `output` folder.
 
 ### Packages
 * Altair docs: https://altair-viz.github.io/index.html
-* Alteir example gallery - the best place to start! https://altair-viz.github.io/gallery/index.html#
-* Vega-Lite docs: https://vega.github.io/vega-lite/
-* Vega-Embed docs: https://github.com/vega/vega-embed
+* Alteir example gallery - the best place to start! <https://altair-viz.github.io/gallery/index.html#>
+* Vega-Lite docs: <https://vega.github.io/vega-lite/>
+* Vega-Embed docs: <https://github.com/vega/vega-embed>
 
 ### Grammar-of-Graphics background
-* Original Wickham paper: http://vita.had.co.nz/papers/layered-grammar.pdf
-* Nice introductory slides to ggplot2: https://pkg.garrickadenbuie.com/gentle-ggplot2/#1
+* Wickham paper, base for ggplot2: <http://vita.had.co.nz/papers/layered-grammar.pdf>
+* Nice introductory slides to ggplot2: <https://pkg.garrickadenbuie.com/gentle-ggplot2/#1>
 
 ### Other interesting stuff
-* A Dramatic Tour through Python’s Data Visualization Landscape (including ggplot and Altair): https://dsaber.com/2016/10/02/a-dramatic-tour-through-pythons-data-visualization-landscape-including-ggplot-and-altair/
+* A Dramatic Tour through Python’s Data Visualization Landscape (including ggplot and Altair): <https://dsaber.com/2017/10/02/a-dramatic-tour-through-pythons-data-visualization-landscape-including-ggplot-and-altair/>
+* Jake VanderPlas - How to Think about Data Visualization - PyCon 2019: <https://www.youtube.com/watch?v=vTingdk_pVM>
